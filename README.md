@@ -1,17 +1,18 @@
-#brainfuck.js
+# brainfuck.js
 
-##Description
-Node.js brainfuck interpreter.
+> Node.js brainfuck interpreter.
 
-##Usage
+## Usage
 
-    node brainfuck.js filename "example input"
+```bash
+node brainfuck.js filename "example input"
+```
 
-##License
+## License
 
 BSD 2-Clause License
 
-Copyright (c) 2013, Florian Wendelborn
+Copyright (c) `2013`-`2019`, Florian Wendelborn
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
